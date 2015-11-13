@@ -1,0 +1,53 @@
+J:\PTL\Cases\SW_API\SW_API_WF\bin\Debug\WindowsFormsApplication1.exe.config
+J:\PTL\Cases\SW_API\SW_API_WF\bin\Debug\WindowsFormsApplication1.exe
+J:\PTL\Cases\SW_API\SW_API_WF\bin\Debug\WindowsFormsApplication1.pdb
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\SW_API2012.csprojResolveAssemblyReference.cache
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.Form1.resources
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\SW_API2012.csproj.GenerateResource.Cache
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.exe
+J:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.pdb
+I:\PTL\Cases\SW_API\SW_API_WF\bin\Debug\WindowsFormsApplication1.exe.config
+I:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.exe
+I:\PTL\Cases\SW_API\SW_API_WF\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\F1shift\Desktop\SW_API_WF\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\F1shift\Desktop\SW_API_WF\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\F1shift\Desktop\SW_API_WF\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\SW_API2012.csprojResolveAssemblyReference.cache
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\obj\Debug\SW_API2012.csproj.GenerateResource.Cache
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\PTL.dll
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\csgl.dll
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\Tao.OpenGl.dll
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\PTL.pdb
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\F1shift\Desktop\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.xml
+D:\PTL\Cases\SW_API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PTL\Cases\SW_API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.exe
+D:\PTL\Cases\SW_API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.pdb
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.exe
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.pdb
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.pdb
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PTL.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Tao.Platform.Windows.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\netDxf.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\csgl.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Tao.OpenGl.dll
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PTL.pdb
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.pdb
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.xml
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.csprojResolveAssemblyReference.cache
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.csproj.GenerateResource.Cache
