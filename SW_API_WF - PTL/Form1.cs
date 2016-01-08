@@ -7,8 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
 using System.Globalization;
+using PTL.Geometry;
+using PTL.SolidWorks;
+using PTL.SolidWorks.GearConstruction;
+using PTL.SolidWorks.Edit;
+using SolidWorks.Interop.sldworks;
 
 namespace WindowsFormsApplication1
 {
@@ -21,15 +25,28 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ReadFile GetPoint = new ReadFile();
-            IModelDoc2_B9903003 model = new IModelDoc2_B9903003();
-            model.CreatePart(GetPoint);
+            GearData gearData = APIFileReader.OpenRead();
+            if (gearData != null)
+                GearCreator.PublishToSolidWorks(gearData);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            InsertCurve tCurve = new InsertCurve();
-            tCurve.InsertMulCurve();
+            List<PolyLine> curves = SLDCRVReader.OpenRead();
+            if (curves != null)
+            {
+                SolidWorksAppAdapter swApp = new SolidWorksAppAdapter();
+                IModelDoc2 modDoc;
+
+                if (swApp.ActiveDoc != null)
+                    modDoc = swApp.ActiveDoc;
+                else
+                    modDoc = swApp.CreatePart();
+
+                int crvNum = 0;
+                foreach (var cv in curves)
+                    PartEditMethods.AddPolyLineToSolidWorksPart(modDoc, cv, ref crvNum);
+            }
         }
     }
 }
