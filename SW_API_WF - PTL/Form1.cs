@@ -14,7 +14,7 @@ using PTL.SolidWorks.GearConstruction;
 using PTL.SolidWorks.Edit;
 using SolidWorks.Interop.sldworks;
 
-namespace WindowsFormsApplication1
+namespace SW_API2012
 {
     public partial class Form1 : Form
     {

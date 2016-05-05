@@ -51,11 +51,6 @@ C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debu
 C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.csproj.GenerateResource.Cache
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe.config
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.exe
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.pdb
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.exe
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\WindowsFormsApplication1.pdb
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PTL.dll
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Tao.Platform.Windows.dll
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.dll
@@ -66,6 +61,11 @@ E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debu
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.pdb
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\Newtonsoft.Json.xml
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.csprojResolveAssemblyReference.cache
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Form1.resources
-E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.csproj.GenerateResource.Cache
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\SW_API2012.exe.config
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\SW_API2012.exe
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\SW_API2012.pdb
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.Form1.resources
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.Properties.Resources.resources
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.exe
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.pdb

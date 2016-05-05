@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace SW_API2012
 {
     partial class Form1
     {
