@@ -69,3 +69,9 @@ E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debu
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.Properties.Resources.resources
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.exe
 E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\obj\Debug\SW_API2012.pdb
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PdfSharp.Xps.dll
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\MathNet.Numerics.dll
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PdfSharp-WPF.dll
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PdfSharp.Xps.xml
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\MathNet.Numerics.pdb
+E:\Data\GitHub\Gear-Automatic-Modeling---SolidWorks-API\SW_API_WF - PTL\bin\Debug\PdfSharp-WPF.xml
